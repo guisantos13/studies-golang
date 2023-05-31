@@ -1,6 +1,8 @@
 # Projeto de Estudos da Linguagem Go
 Este é um projeto de estudos da linguagem Go, que tem como objetivo aprender os conceitos básicos e avançados dessa linguagem.
 
+![Go](go1.png)
+
 ## Introdução
 Go é uma linguagem de programação criada pelo Google em 2007. Ela é compilada, estaticamente tipada, com coleta de lixo e suporte a concorrência. Ela foi projetada para ser simples, eficiente e produtiva.
 
